@@ -18,8 +18,6 @@ Contributing to The Open Codex is easy! You can contribute by:
 - Editing and improving existing content
 - Suggesting new ideas and collaborating with other creators
 
-To learn how to contribute, check out our [CONTRIBUTING](CONTRIBUTING.md) guide.
-
 ## Getting Started
 
 To begin, fork the repository and clone it to your local machine. Then, create a new branch, write your contribution, and submit a pull request. Don't forget to follow our [Project Guidelines](project-guidelines.md) to ensure your contribution aligns with the project's vision.

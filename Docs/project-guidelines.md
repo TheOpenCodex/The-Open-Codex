@@ -31,7 +31,6 @@ Welcome to **The Open Codex**! To maintain consistency and quality across our gr
 ## Additional Resources
 
 - [How to Contribute](how-to-contribute.md) - A step-by-step guide on how to submit contributions.
-- [Contributing.md](CONTRIBUTING.md) - More details on how to get involved in the community.
 - [Templates](templates/) - Templates for contributing lore about factions, characters, and worlds.
 
 Thank you for helping make **The Open Codex** a collaborative and evolving project!
