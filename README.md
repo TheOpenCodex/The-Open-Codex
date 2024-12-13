@@ -48,17 +48,15 @@ We want to ensure that the lore of **The Open Codex** is consistent and immersiv
 - **Character Depth**: Characters should have clear motivations and histories.
 - **Cohesiveness**: Ensure your writing flows and makes sense within the greater context of the world.
 
-For detailed writing guidelines, visit [project-guidelines.md](docs/project-guidelines.md).
-
 ---
 
 ## Templates
 
 In order to keep the lore consistent, we have provided templates for each type of lore. These templates will guide you in structuring your contributions:
 
-- **Faction Template**: [faction-template.md](templates/faction-template.md)
-- **Character Template**: [character-template.md](templates/character-template.md)
-- **World Template**: [world-template.md](templates/world-template.md)
+- **Faction Template**
+- **Character Template**
+- **World Template** 
 
 Feel free to copy and adapt these templates when adding new content to the repository.
 
